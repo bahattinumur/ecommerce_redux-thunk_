@@ -1,0 +1,206 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Smartphone",
+      "make": "Zenith",
+      "model": "X Zold",
+      "price": 1500,
+      "stockAmount": 50,
+      "color": "Black",
+      "specs": [
+        "4G LTE connection",
+        "64 GB storage",
+        "5.5-inch display",
+        "price: 1500 $"
+      ],
+      "image": "https://picsum.photos/201"
+    },
+    {
+      "id": "2",
+      "title": "Laptop",
+      "make": "Solarix ",
+      "model": "Air",
+      "price": 3000,
+      "stockAmount": 30,
+      "color": "Silver",
+      "specs": [
+        "Intel Core i7 processor",
+        "16 GB RAM",
+        "512 GB SSD",
+        "price: 3000 $"
+      ],
+      "image": "https://picsum.photos/202"
+    },
+    {
+      "id": "3",
+      "title": "Wireless Headphones",
+      "make": "Immerse ",
+      "model": "One",
+      "price": 150,
+      "stockAmount": 100,
+      "color": "White",
+      "specs": [
+        "Bluetooth 5.0",
+        "Touch control",
+        "20 hours battery life",
+        "price: 150 $"
+      ],
+      "image": "https://picsum.photos/203"
+    },
+    {
+      "id": "4",
+      "title": "Smart Watch",
+      "make": "Voyager ",
+      "model": "Lingua",
+      "price": 500,
+      "stockAmount": 20,
+      "color": "Metal Grey",
+      "specs": [
+        "GPS tracking",
+        "Heart rate sensor",
+        "Waterproof",
+        "price: 500 $"
+      ],
+      "image": "https://picsum.photos/204"
+    },
+    {
+      "id": "5",
+      "title": "Smart TV",
+      "make": "Luminos ",
+      "model": "Max",
+      "price": 2500,
+      "stockAmount": 40,
+      "color": "Black",
+      "specs": [
+        "4K Ultra HD",
+        "Smart TV",
+        "50-inch display",
+        "price: 2500 $"
+      ],
+      "image": "https://picsum.photos/205"
+    },
+    {
+      "id": "6",
+      "title": "Gaming PC",
+      "make": "Chefcraft ",
+      "model": "Pro",
+      "price": 4000,
+      "stockAmount": 25,
+      "color": "RGB Backlit",
+      "specs": [
+        "NVIDIA GeForce RTX 3080",
+        "32 GB RAM",
+        "1 TB NVMe SSD",
+        "price: 4000 $"
+      ],
+      "image": "https://picsum.photos/206"
+    },
+    {
+      "id": "14",
+      "title": "Bluetooth Speaker",
+      "make": "BeamBeam ",
+      "model": "Max",
+      "price": 120,
+      "stockAmount": 80,
+      "color": "Blue",
+      "specs": [
+        "Wireless charging",
+        "Portable",
+        "10 hours battery life",
+        "price: 120 $"
+      ],
+      "image": "https://picsum.photos/207"
+    },
+    {
+      "id": "7",
+      "title": "Camera Set",
+      "make": "Gearshift ",
+      "model": "X1",
+      "price": 800,
+      "stockAmount": 15,
+      "color": "Black",
+      "specs": [
+        "4 cameras",
+        "Night vision",
+        "Motion detection",
+        "price: 800 $"
+      ],
+      "image": "https://picsum.photos/208"
+    },
+    {
+      "id": "8",
+      "title": "Wireless Mouse",
+      "make": "AquaDrop",
+      "model": "F9",
+      "price": 80,
+      "stockAmount": 60,
+      "color": "Black",
+      "specs": [
+        "Ergonomic design",
+        "1200 DPI sensitivity",
+        "Dual-scrolling",
+        "price: 80 $"
+      ],
+      "image": "https://picsum.photos/209"
+    },
+    {
+      "id": "9",
+      "title": "Smart Bracelet",
+      "make": "PawTrack ",
+      "model": "B10",
+      "price": 120,
+      "stockAmount": 35,
+      "color": "Pink",
+      "specs": [
+        "Heart rate monitoring",
+        "Step counter",
+        "Sleep tracking",
+        "price: 120 $"
+      ],
+      "image": "https://picsum.photos/210"
+    },
+    {
+      "id": "10",
+      "title": "Portable SSD",
+      "make": "Voyager ",
+      "model": "C11",
+      "price": 200,
+      "stockAmount": 45,
+      "color": "Grey",
+      "specs": [
+        "500 GB storage",
+        "USB-C connection",
+        "Fast data transfer",
+        "price: 200 $"
+      ],
+      "image": "https://picsum.photos/211"
+    },
+    {
+      "id": "11",
+      "title": "Keyboard",
+      "make": "Luminos ",
+      "model": "D12",
+      "price": 150,
+      "stockAmount": 25,
+      "color": "RGB Backlit",
+      "specs": [
+        "Mechanical keys",
+        "Programmable keys",
+        "Optical gaming mouse",
+        "price: 150 $"
+      ],
+      "image": "https://picsum.photos/212"
+    }
+  ],
+  "basket": [
+    {
+      "id": "6",
+      "make": "Chefcraft ",
+      "model": "Pro",
+      "price": 4000,
+      "image": "https://picsum.photos/206",
+      "amount": 2
+    }
+  ]
+}
